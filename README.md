@@ -69,6 +69,5 @@ This repository implements a multi-class image classification pipeline with a fo
 - **AUC-ROC Score**: 0.5743
 
 ## Visualization
-![ResNet50 learning curve](https://github.com/user-attachments/assets/bbe0f67a-84de-4b9c-82b2-264cbaf695b6)
-![CNN learning curve](https://github.com/user-attachments/assets/8bf5063b-592a-4cae-96ed-bdae8c3420e4)
+![ResNet50 learning curve](https://github.com/user-attachments/assets/bbe0f67a-84de-4b9c-82b2-264cbaf695b6) ![CNN learning curve](https://github.com/user-attachments/assets/8bf5063b-592a-4cae-96ed-bdae8c3420e4)
 ---
