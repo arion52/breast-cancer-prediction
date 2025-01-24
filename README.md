@@ -1,6 +1,6 @@
 # breast-cancer-prediction
 
-This repository implements a multi-class image classification pipeline with a focus on differentiating between various magnification levels of images (`100X`, `200X`, `400X`, and `40X`). The models used are a custom CNN and a pre-trained ResNet50 with transfer learning.
+This repository implements a breast cancer classification with a focus on differentiating between various magnification levels of images (`100X`, `200X`, `400X`, and `40X`). The models used are a custom CNN and a pre-trained ResNet50 with transfer learning.
 
 ## Dataset Used
 [This](https://web.inf.ufpr.br/vri/databases/breast-cancer-histopathological-database-breakhis/) is the dataset that was used in this project. Detailed description and the link to download is provided in the link itself.
